@@ -1,0 +1,9 @@
+crash-reports
+/.curseclient
+/crafttweaker.log
+/options.txt
+/usercache.json
+/usernamecache.json
+mods
+logs
+saves

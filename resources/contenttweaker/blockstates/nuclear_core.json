@@ -1,0 +1,42 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "contenttweaker:machine",
+    "textures": {
+	    "0": "taiga:blocks/block/palladium",
+	    "down": "contenttweaker:blocks/machine_nuclear",
+      "up": "contenttweaker:blocks/machine_nuclear",
+      "north": "contenttweaker:blocks/machine_nuclear",
+	    "east": "contenttweaker:blocks/machine_nuclear",
+	    "south": "contenttweaker:blocks/machine_nuclear",
+	    "west": "contenttweaker:blocks/machine_nuclear",
+      "particle": "taiga:blocks/block/palladium"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants":{
+    "normal":[{}],
+    "inventory":[{}],
+    "facing": {
+		    "down":  { "x": 180 },
+        "up":    { },
+        "north": { "x": 90 },
+        "south": { "x": 90, "y": 180 },
+        "west":  { "x": 90, "y": 270 },
+        "east":  { "x": 90, "y": 90 }
+    },
+    "active": {
+      "true": {
+        "textures": {
+          "down": "contenttweaker:blocks/machine_nuclear_active",
+          "up": "contenttweaker:blocks/machine_nuclear_active",
+          "north": "contenttweaker:blocks/machine_nuclear_active",
+          "east": "contenttweaker:blocks/machine_nuclear_active",
+          "south": "contenttweaker:blocks/machine_nuclear_active",
+          "west": "contenttweaker:blocks/machine_nuclear_active"
+        }
+      },
+      "false": {}
+    }
+  }
+}

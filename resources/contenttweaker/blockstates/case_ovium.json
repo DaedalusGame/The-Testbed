@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "0": "taiga:blocks/block/ovium",
+      "particle": "taiga:blocks/block/ovium"
+    },
+    "model": "contenttweaker:machine_case",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

@@ -1,0 +1,46 @@
+item.tconstruct.shuriken.name=Sawblade
+item.tconstruct.hatchet.name=Guillotine
+
+tile.contenttweaker.solid_fuel.name=Solid Fuel
+tile.contenttweaker.white_fuel.name=High Age Fuel
+
+item.contenttweaker.sulfur.name=Brimstone
+item.contenttweaker.blast_gel.name=Blast Gel
+item.contenttweaker.fuse.name=Fuse
+
+item.contenttweaker.sulfuel.name=Sulfuel
+item.contenttweaker.sulfuel_empowered.name=Cracked Sulfuel
+item.contenttweaker.sulfuel_hp.name=Dense Sulfuel
+item.contenttweaker.sulfuel_nuclear.name=Nuclear Sulfuel
+
+item.contenttweaker.radioactive_glass.name=Radioactive Glass
+item.contenttweaker.energy_star.name=Energy Star
+
+tile.contenttweaker.blast_gel_block.name=Block of Blast Gel
+tile.contenttweaker.blast_gel_processed.name=Blast Precursor
+
+tile.contenttweaker.case_karmesine.name=Karmesine Hull
+tile.contenttweaker.case_ovium.name=Ovium Hull
+tile.contenttweaker.case_jauxum.name=Jauxum Hull
+tile.contenttweaker.case_terrax.name=Terrax Hull
+tile.contenttweaker.case_aurorium.name=Aurorium Hull
+tile.contenttweaker.case_astrium.name=Astrium Hull
+tile.contenttweaker.case_palladium.name=Palladium Hull
+
+tile.contenttweaker.case_seismum.name=Seismum Hull
+tile.contenttweaker.case_fractum.name=Fractum Hull
+tile.contenttweaker.case_uru.name=Uru Hull
+tile.contenttweaker.case_vibranium.name=Vibranium Hull
+
+fluid.fuel=Fuel
+fluid.gas=Fuel Gas
+fluid.dragon_breath=Dragon's Breath
+
+requious.unit.laser.nuclear=Nuclear: %sn
+
+requious.jei.recipe.assembler=Assembler
+requious.jei.recipe.compressor=Compressor
+requious.jei.recipe.congeal_chamber=Congealing Chamber
+requious.jei.recipe.fuel_processor=Fuel Processor
+requious.jei.recipe.nuclear_core=Nuclear Core
+requious.jei.recipe.nuclear_processor=Nuclear Processor

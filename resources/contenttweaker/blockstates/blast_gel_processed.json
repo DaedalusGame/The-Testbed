@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "front": "contenttweaker:blocks/blast_gel_processed_top",
+      "side": "contenttweaker:blocks/blast_gel_processed",
+      "particle": "contenttweaker:blocks/blast_gel_processed"
+    },
+    "model": "orientable_vertical",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

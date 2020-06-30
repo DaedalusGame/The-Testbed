@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "0": "taiga:blocks/block/terrax",
+      "particle": "taiga:blocks/block/terrax"
+    },
+    "model": "contenttweaker:machine_case",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
