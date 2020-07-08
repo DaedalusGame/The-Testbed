@@ -1,0 +1,322 @@
+[
+  {
+    "n": "Arcane World",
+    "v": "0.0.11",
+    "f": "arcaneworld-1.12.2-0.0.11.jar",
+    "a": "Lemons",
+    "u": "",
+    "m": "b14a84105d45f76a56a0bb363eec3a99"
+  },
+  {
+    "n": "AutoRegLib",
+    "v": "1.3-32",
+    "f": "AutoRegLib-1.3-32.jar",
+    "a": "Vazkii",
+    "u": "http://www.vazkii.us",
+    "m": "4e5a4b881c27b1e4502a9a16c00882ad"
+  },
+  {
+    "n": "B.A.S.E",
+    "v": "3.13.0",
+    "f": "base-1.12.2-3.13.0.jar",
+    "a": "SkySom, Lanse505, Jared, EwyBoy",
+    "u": "http://minecraft.curseforge.com/projects/b-a-s-e",
+    "m": "caae1ceb2cbcdc7bd7a6acf078788faf"
+  },
+  {
+    "n": "BD Lib",
+    "v": "1.14.3.12",
+    "f": "bdlib-1.14.3.12-mc1.12.2.jar",
+    "a": "bdew",
+    "u": "bdew.net/mods/",
+    "m": "d2b8ba08414ac12737eb5ecbf92a19d9"
+  },
+  {
+    "n": "Charm",
+    "v": "1.12.2-1.3.7",
+    "f": "Charm-1.12.2-1.3.7.jar",
+    "a": "svenhjol",
+    "u": "https://minecraft.curseforge.com/projects/charm",
+    "m": "ed3261d23fe37fdbcb175641991118bf"
+  },
+  {
+    "n": "Click Machine",
+    "v": "1.2.0",
+    "f": "ClickMachine-1.12.2-1.2.0.jar",
+    "a": "Shadows_of_Fire",
+    "u": "",
+    "m": "6e7a32c26f78b664c0f14ba87c620909"
+  },
+  {
+    "n": "CoFH Core",
+    "v": "4.6.6",
+    "f": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "a": "Team CoFH",
+    "u": "http://www.teamcofh.com",
+    "m": "f147d3b87f97bb317e1c37cba0dde002"
+  },
+  {
+    "n": "CoFH: Vanilla+ Satchels",
+    "v": "1.0.2",
+    "f": "VanillaSatchels-1.12.2-1.0.2.4-universal.jar",
+    "a": "Team CoFH",
+    "u": "http://www.teamcofh.com",
+    "m": "26fb21c307560e3bc091b06ff2aed339"
+  },
+  {
+    "n": "CoFH: Vanilla+ Tools",
+    "v": "1.1.0",
+    "f": "VanillaTools-1.12.2-1.1.0.2-universal.jar",
+    "a": "Team CoFH",
+    "u": "http://www.teamcofh.com",
+    "m": "193d6ab43c8985e2ae3cd77f306bc710"
+  },
+  {
+    "n": "Construct\u0027s Armory",
+    "v": "1.2.5.9",
+    "f": "conarm-1.12.2-1.2.5.9.jar",
+    "a": "C4",
+    "u": "",
+    "m": "a91589e2f96fc28bc05c2dac88d4a95d"
+  },
+  {
+    "n": "ContentTweaker",
+    "v": "1.12.2-4.9.1",
+    "f": "ContentTweaker-1.12.2-4.9.1.jar",
+    "a": "SkySom",
+    "u": "teamacronymcoders.com",
+    "m": "a36b092d9ed0900b7143f4a14a12fba8"
+  },
+  {
+    "n": "CraftTweaker JEI Support",
+    "v": "2.0.3",
+    "f": "CraftTweaker2-1.12-4.1.20.576.jar",
+    "a": "",
+    "u": "",
+    "m": "d06407b3ea8597e034e82cace2afb8d2"
+  },
+  {
+    "n": "CraftTweaker2",
+    "v": "4.1.20",
+    "f": "CraftTweaker2-1.12-4.1.20.576.jar",
+    "a": "StanHebben, Jaredlll08",
+    "u": "http://minetweaker3.powerofbytes.com",
+    "m": "d06407b3ea8597e034e82cace2afb8d2"
+  },
+  {
+    "n": "CT-GUI",
+    "v": "1.0.0",
+    "f": "CraftTweaker2-1.12-4.1.20.576.jar",
+    "a": "",
+    "u": "",
+    "m": "d06407b3ea8597e034e82cace2afb8d2"
+  },
+  {
+    "n": "Forge Mod Loader",
+    "v": "8.0.99.99",
+    "f": "forge-1.12.2-14.23.5.2847.jar",
+    "a": "cpw, LexManos, Player",
+    "u": "https://github.com/MinecraftForge/FML/wiki",
+    "m": ""
+  },
+  {
+    "n": "Infini-TiC",
+    "v": "1.12.2-0.1.46",
+    "f": "Infini-TiC-1.12.2-0.1.46.jar",
+    "a": "Johz, LakMoore",
+    "u": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2719989-infini-tic-another-tinkers-construct-add-on",
+    "m": "75c431d95c5ddd2baaee6c33ada2275b"
+  },
+  {
+    "n": "Just Enough Items",
+    "v": "4.15.0.293",
+    "f": "jei_1.12.2-4.15.0.293.jar",
+    "a": "mezz",
+    "u": "https://github.com/mezz/JustEnoughItems",
+    "m": "32541b3176b0d4b24af71836a52bc070"
+  },
+  {
+    "n": "LemonLib",
+    "v": "1.3.0",
+    "f": "lemonlib-1.12.2-1.3.0.jar",
+    "a": "Lemons",
+    "u": "",
+    "m": "eb5569119fe19c4c8f69620c840fb48f"
+  },
+  {
+    "n": "Mantle",
+    "v": "1.12-1.3.3.55",
+    "f": "Mantle-1.12-1.3.3.55.jar",
+    "a": "boni, progWML6, Alexbegt",
+    "u": "https://github.com/SlimeKnights/Mantle",
+    "m": "1026f5f8d3c4997831decd9023ca65a6"
+  },
+  {
+    "n": "Materialis",
+    "v": "1.2.1",
+    "f": "materialis-1.12.2-1.2.1.jar",
+    "a": "RCXcrafter",
+    "u": "https://minecraft.curseforge.com/projects/materialis",
+    "m": "7ccf553ea1fcdfca518b0baa4fee7dbe"
+  },
+  {
+    "n": "Materialis Pre Load",
+    "v": "1.2.1",
+    "f": "materialis-1.12.2-1.2.1.jar",
+    "a": "RCXcrafter",
+    "u": "https://minecraft.curseforge.com/projects/materialis",
+    "m": "7ccf553ea1fcdfca518b0baa4fee7dbe"
+  },
+  {
+    "n": "Mechanics",
+    "v": "1.1",
+    "f": "mechanics-1.1.jar",
+    "a": "Wolforce, al132mc",
+    "u": "",
+    "m": "73d6465bd238a92917b2a89712e5b1d4"
+  },
+  {
+    "n": "Minecraft",
+    "v": "1.12.2",
+    "f": "minecraft.jar",
+    "a": "",
+    "u": "",
+    "m": ""
+  },
+  {
+    "n": "Minecraft Coder Pack",
+    "v": "9.42",
+    "f": "minecraft.jar",
+    "a": "",
+    "u": "http://www.modcoderpack.com/website/",
+    "m": ""
+  },
+  {
+    "n": "Minecraft Forge",
+    "v": "14.23.5.2847",
+    "f": "forge-1.12.2-14.23.5.2847.jar",
+    "a": "LexManos, cpw, fry",
+    "u": "http://minecraftforge.net",
+    "m": ""
+  },
+  {
+    "n": "ModLister",
+    "v": "1.12.2-3.2.4",
+    "f": "ModLister-1.12.2-3.2.4.jar",
+    "a": "iChun, Quetzi",
+    "u": "http://www.modlister.com/",
+    "m": "b4662cbed9a05357fbd4238fe90916bb"
+  },
+  {
+    "n": "Placebo",
+    "v": "1.6.0",
+    "f": "Placebo-1.12.2-1.6.0.jar",
+    "a": "Shadows_of_Fire",
+    "u": "",
+    "m": "a9ecfa296b2b1203ed5a68ed6c01833a"
+  },
+  {
+    "n": "Potion Core",
+    "v": "1.9_for_1.12.2",
+    "f": "PotionCore-1.9_for_1.12.2.jar",
+    "a": "",
+    "u": "",
+    "m": "5dea390b2e61967b35d23f73adf73bad"
+  },
+  {
+    "n": "Pressure Pipes",
+    "v": "1.3.1.9",
+    "f": "pressure-1.3.1.9-mc1.12.2.jar",
+    "a": "bdew",
+    "u": "htts://bdew.net/",
+    "m": "7673d46656e8fcc269dea0f56a2e2c34"
+  },
+  {
+    "n": "Quark",
+    "v": "r1.6-179",
+    "f": "Quark-r1.6-179.jar",
+    "a": "Vazkii, wiiv",
+    "u": "http://www.vazkii.us",
+    "m": "dfcfa70d244f0435a5ff2b28037a324b"
+  },
+  {
+    "n": "Quark Oddities",
+    "v": "1",
+    "f": "QuarkOddities-1.12.2.jar",
+    "a": "",
+    "u": "",
+    "m": "6e16630baca6837163dbee699ef3cf4b"
+  },
+  {
+    "n": "Redstone Flux",
+    "v": "2.1.1",
+    "f": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+    "a": "Team CoFH",
+    "u": "http://www.teamcofh.com",
+    "m": "93b1715f05be1878da93fca36dd37f2a"
+  },
+  {
+    "n": "Requious Frakto",
+    "v": "1.0",
+    "f": "Requious Frakto-0.9.jar",
+    "a": "",
+    "u": "",
+    "m": "dedc2a10725b83a86c725a147b31a454"
+  },
+  {
+    "n": "Resource Loader",
+    "v": "1.5.3",
+    "f": "ResourceLoader-MC1.12.1-1.5.3.jar",
+    "a": "lumien",
+    "u": "",
+    "m": "51141e882f96ce756b9b3d25f2acdf57"
+  },
+  {
+    "n": "Thrown Slime",
+    "v": "2.0.0",
+    "f": "thrownslime-1.4.0.jar",
+    "a": "LumberWizard",
+    "u": "",
+    "m": "7b6beb41734afc8004d4655733ec29d7"
+  },
+  {
+    "n": "Tinkers Alloying Addon",
+    "v": "1.12.2-1.3.3",
+    "f": "taiga-1.12.2-1.3.4.jar",
+    "a": "Zkaface, Chefe",
+    "u": "https://gitlab.harting.hosting/TeamFRM/TAIGA",
+    "m": "8eeb4e35446fb5a879dae5f4e02fc2b0"
+  },
+  {
+    "n": "Tinkers\u0027 Complement",
+    "v": "1.12.2-0.4.3",
+    "f": "TinkersComplement-1.12.2-0.4.3.jar",
+    "a": "KnightMiner",
+    "u": "https://minecraft.curseforge.com/projects/tinkers-complement",
+    "m": "905f6590b33d4b3ba80d973f3979d0d0"
+  },
+  {
+    "n": "Tinkers\u0027 Construct",
+    "v": "1.12.2-2.13.0.183",
+    "f": "TConstruct-1.12.2-2.13.0.183.jar",
+    "a": "boni, KnightMiner",
+    "u": "https://github.com/SlimeKnights/TinkersConstruct",
+    "m": "710d64342d41042b7d6ced891448e727"
+  },
+  {
+    "n": "Veining",
+    "v": "1.3.2",
+    "f": "veining-1.3.2-1.12.x.jar",
+    "a": "LalalaStab",
+    "u": "https://github.com/arlyon/veining",
+    "m": "c19d8cc2ce5a3ce7c3469908cae6b21e"
+  },
+  {
+    "n": "Wards",
+    "v": "1.3.1",
+    "f": "wards-1.3.1.jar",
+    "a": "jt9",
+    "u": "",
+    "m": "9259505f3f8fe7bf5d9580da48fec5a8"
+  }
+]
