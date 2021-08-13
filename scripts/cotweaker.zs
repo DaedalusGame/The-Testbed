@@ -8,56 +8,22 @@ import mods.contenttweaker.IItemRightClick;
 import mods.contenttweaker.Commands;
 
 function makeMachineHull(name as string){
-	var hull = VanillaFactory.createBlock(name, <blockmaterial:iron>);
-	hull.setBlockHardness(5.0);
-	hull.setBlockResistance(5.0);
-	hull.register();
+	VanillaFactory.createBlock(name, <blockmaterial:iron>)
+	.setBlockHardness(5.0)
+	.setBlockResistance(5.0)
+	.register();
 }
 
-var sulfur = VanillaFactory.createItem("sulfur");
-sulfur.register();
-var ingot_bronze = VanillaFactory.createItem("ingot_bronze");
-ingot_bronze.register();
-var nugget_bronze = VanillaFactory.createItem("nugget_bronze");
-nugget_bronze.register();
+val normalItemList as string[] = [
+	"sulfur", "ingot_bronze", "nugget_bronze", "blast_gel", "fuse", "dynamite", "dynamite_bundle",
+	"redstone_circuit", "radioactive_glass", "fuel_piece", "fuel_star", "fuel_lattice", "sulfuel",
+	"sulfuel_empowered", "sulfuel_hp", "sulfuel_nuclear", "energy_star", "acid_star", "nightmare",
+	"dark_matter"
+];
 
-var blast_gel = VanillaFactory.createItem("blast_gel");
-blast_gel.register();
-var fuse = VanillaFactory.createItem("fuse");
-fuse.register();
-var dynamite = VanillaFactory.createItem("dynamite");
-dynamite.register();
-var dynamite_bundle = VanillaFactory.createItem("dynamite_bundle");
-dynamite_bundle.register();
-var redstone_circuit = VanillaFactory.createItem("redstone_circuit");
-redstone_circuit.register();
-var radioactive_glass = VanillaFactory.createItem("radioactive_glass");
-radioactive_glass.register();
-
-var fuel_piece = VanillaFactory.createItem("fuel_piece");
-fuel_piece.register();
-var fuel_star = VanillaFactory.createItem("fuel_star");
-fuel_star.register();
-var fuel_lattice = VanillaFactory.createItem("fuel_lattice");
-fuel_lattice.register();
-
-var sulfuel = VanillaFactory.createItem("sulfuel");
-sulfuel.register();
-var sulfuel_empowered = VanillaFactory.createItem("sulfuel_empowered");
-sulfuel_empowered.register();
-var sulfuel_hp = VanillaFactory.createItem("sulfuel_hp");
-sulfuel_hp.register();
-var sulfuel_nuclear = VanillaFactory.createItem("sulfuel_nuclear");
-sulfuel_nuclear.register();
-
-var energy_star = VanillaFactory.createItem("energy_star");
-energy_star.register();
-var acid_star = VanillaFactory.createItem("acid_star");
-acid_star.register();
-var nightmare = VanillaFactory.createItem("nightmare");
-nightmare.register();
-var dark_matter = VanillaFactory.createItem("dark_matter");
-dark_matter.register();
+for item in normalItemList{
+	VanillaFactory.createItem(item).register();
+}
 
 var solid_fuel = VanillaFactory.createBlock("solid_fuel", <blockmaterial:rock>);
 solid_fuel.setBlockHardness(5.0);
@@ -88,24 +54,30 @@ var blast_gel_processed = VanillaFactory.createBlock("blast_gel_processed", <blo
 blast_gel_processed.setBlockHardness(5.0);
 blast_gel_processed.register();
 
-makeMachineHull("case_karmesine");
-makeMachineHull("case_ovium");
-makeMachineHull("case_jauxum");
-makeMachineHull("case_terrax");
-makeMachineHull("case_aurorium");
-makeMachineHull("case_astrium");
-makeMachineHull("case_palladium");
+val caseList as sting[] = [
+	"karmesine",
+	"ovium",
+	"jauxum",
+	"terrax",
+	"aurorium",
+	"astrium",
+	"palladium",
+	"seismum",
+	"fractum",
+	"uru",
+	"vibranium"
+];
 
-makeMachineHull("case_seismum");
-makeMachineHull("case_fractum");
-makeMachineHull("case_uru");
-makeMachineHull("case_vibranium");
+for case in caseList {
+	makeMachineHull("case_" ~ case);
+}
 
 var fuel = VanillaFactory.createFluid("fuel", Color.fromHex("ffd700"));
 fuel.register();
 var gas = VanillaFactory.createFluid("gas", Color.fromHex("fff0f5"));
 gas.gaseous = true;
 gas.register();
+
 var dragon_breath = VanillaFactory.createFluid("dragon_breath", Color.fromHex("ffb5f8"));
 dragon_breath.gaseous = true;
 dragon_breath.colorize = false;
