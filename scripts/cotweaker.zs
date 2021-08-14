@@ -54,7 +54,7 @@ var blast_gel_processed = VanillaFactory.createBlock("blast_gel_processed", <blo
 blast_gel_processed.setBlockHardness(5.0);
 blast_gel_processed.register();
 
-val caseList as sting[] = [
+val caseList as string[] = [
 	"karmesine",
 	"ovium",
 	"jauxum",

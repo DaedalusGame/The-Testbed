@@ -7,7 +7,7 @@ import mods.requious.LaserVisual;
 import mods.requious.GaugeDirection;
 import mods.requious.ComponentFace;
 
-var nuclear_core = <assembly:nuclear_core>;
+static nuclear_core = <assembly:nuclear_core>;
 
 static laserVisual as LaserVisual = LaserVisual.beam([23, 54, 8, 255], 5);
 static nuclearSlot as SlotVisual = SlotVisual.createGauge("requious:textures/gui/assembly_gauges.png", 0, 2, 1, 2, GaugeDirection.up(), false);

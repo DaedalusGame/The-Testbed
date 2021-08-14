@@ -7,7 +7,7 @@ import mods.requious.ComponentFace;
 import mods.requious.SlotVisual;
 import mods.requious.AssemblyRecipe;
 
-var assembler = <assembly:assembler>;
+static assembler = <assembly:assembler>;
 
 assembler.setItemSlot(1, 1, ComponentFace.all(), 64)
 		 .setAccess(true, false)

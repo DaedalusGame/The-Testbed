@@ -11,38 +11,38 @@ import mods.requious.MachineVisual;
 import mods.requious.ComponentFace;
 import mods.requious.AssemblyRecipe;
 
-var fuel_processor = <assembly:fuel_processor>;
+static fuel_processor = <assembly:fuel_processor>;
 
 fuel_processor.setItemSlot(1,1, ComponentFace.all(),64)
-.setAccess(true, false)
-.setGroup("input");
+				.setAccess(true, false)
+				.setGroup("input");
 fuel_processor.setItemSlot(1,2, ComponentFace.all(),64)
-.setAccess(true, false)
-.setGroup("input");
+				.setAccess(true, false)
+				.setGroup("input");
 fuel_processor.setItemSlot(1,3, ComponentFace.all(),64)
-.setAccess(true, false)
-.setGroup("input");
+				.setAccess(true, false)
+				.setGroup("input");
 fuel_processor.setFluidSlot(2,1, ComponentFace.all(),12000)
-.setAccess(true, false)
-.setGroup("input");
+				.setAccess(true, false)
+				.setGroup("input");
 fuel_processor.setFluidSlot(2,2, ComponentFace.all(),12000)
-.setAccess(true, false)
-.setGroup("input");
+				.setAccess(true, false)
+				.setGroup("input");
 fuel_processor.setFluidSlot(2,3, ComponentFace.all(),12000)
-.setAccess(true, false)
-.setGroup("input");
+				.setAccess(true, false)
+				.setGroup("input");
 fuel_processor.setItemSlot(6,1, ComponentFace.all(),64)
-.setAccess(false, true).
-setHandAccess(false, true)
-.setGroup("output");
+				.setAccess(false, true)
+				.setHandAccess(false, true)
+				.setGroup("output");
 fuel_processor.setItemSlot(6,2, ComponentFace.all(),64)
-.setAccess(false, true)
-.setHandAccess(false, true)
-.setGroup("output");
+				.setAccess(false, true)
+				.setHandAccess(false, true)
+				.setGroup("output");
 fuel_processor.setItemSlot(6,3, ComponentFace.all(),64)
-.setAccess(false, true)
-.setHandAccess(false, true)
-.setGroup("output");
+				.setAccess(false, true)
+				.setHandAccess(false, true)
+				.setGroup("output");
 
 fuel_processor.setJEIItemSlot(0,0, "input");
 fuel_processor.setJEIItemSlot(1,0, "input");

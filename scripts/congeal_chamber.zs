@@ -7,7 +7,7 @@ import mods.requious.ComponentFace;
 import mods.requious.SlotVisual;
 import mods.requious.AssemblyRecipe;
 
-var congeal_chamber = <assembly:congeal_chamber>;
+static congeal_chamber = <assembly:congeal_chamber>;
 
 congeal_chamber.setItemSlot(1, 2, ComponentFace.all(), 64)
 			   .setAccess(true, false)
