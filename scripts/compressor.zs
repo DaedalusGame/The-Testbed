@@ -7,7 +7,7 @@ import mods.requious.ComponentFace;
 import mods.requious.SlotVisual;
 import mods.requious.AssemblyRecipe;
 
-var compressor = <assembly:compressor>;
+static compressor = <assembly:compressor>;
 
 compressor.setItemSlot(1, 1, ComponentFace.all(), 64)
 		  .setAccess(true, false)

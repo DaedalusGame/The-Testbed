@@ -10,7 +10,7 @@ import crafttweaker.world.IFacing;
 import mods.requious.ComponentFace;
 import mods.requious.AssemblyRecipe;
 
-var nuclear_processor = <assembly:nuclear_processor>;
+static nuclear_processor = <assembly:nuclear_processor>;
 
 static nuclearIcon as SlotVisual = SlotVisual.create(1, 1).addPart("contenttweaker:textures/gui/assembly_extra.png", 0, 0);
 
